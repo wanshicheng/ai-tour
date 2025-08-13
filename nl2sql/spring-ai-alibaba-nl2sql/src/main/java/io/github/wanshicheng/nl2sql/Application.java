@@ -1,4 +1,4 @@
-package com.example.demo;
+package io.github.wanshicheng.nl2sql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
