@@ -1,0 +1,36 @@
+# Ignore IDE settings
+.idea/
+*.iml
+
+# Ignore build output
+**/target/
+**/out/
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore Maven/Gradle wrappers
+.mvn/
+.gradle/
+
+# Ignore generated sources
+**/generated-sources/
+
+# Ignore dependency directories
+**/node_modules/
+
+# Ignore compiled classes
+**/*.class
+
+# Ignore application properties (if needed)
+# application.properties
+# application.yml
